@@ -1,0 +1,4 @@
+["Esc\n\n~\n`","Q\n@\nF1","W\nWin\nF2","E\nEsc\nF3","R\nScroll Lock\nF4","T\n!","Y\nPgUp\n\n\n\n\n\n\n7","U\nHome\n\n\n\n\n\n\n8","I\n↑\n\n\n\n\n\n\n9","O\nEnd\n\n\n\n\n\n\n*","P\nPrtSc\n\n\n\n\n\n\n/","Back Space Delete"],
+["Tab","A\n&\nF5","S\n$\nF6","D\n)\nF7","F\n#\nF8","G\nCaps Lock","H\nPgDn\n\n\n\n\n\n\n4","J\n←\n\n\n\n\n\n\n5","K\n↓\n\n\n\n\n\n\n6","L\n→\n\n\n\n\n\n\n+",":\n;\n_\n-\n\n\n\n\n-","\"\n'\n+\n="],
+["Shift","Z\n%\nF9","X\n*\nF10","C\n(\nF11","V\n^\nF12","B\nPause Break","N\nNum Lock\n\n\n\n\n\n\n1","M\nMenu\n\n\n\n\n\n\n2","<\n,\n{\n[\n\n\n\n\n3\n\nGui",">\n.\n}\n]\n\n\n\n\n.\n\nAlt","?\n/\n|\n\\\n\n\n\n\n,\n\nCtrl","Shift\nInsert\n\n\n\n\nEnter"],
+[{x:4,w:2},"Lower",{w:2},"Raise"]
