@@ -2,6 +2,12 @@
 
 100110B is my custom design of the 40% ortholinear mechanical keyboard.
 
+This is what the 100110B looks like in its full glory!
+
+The [complete 100110B layers definition](100110B-complete.json):
+
+![complete 100110B layers](100110B-complete.png)
+
 ## 100110B Layers
 
 These are the layers of the Prism keyboard.
@@ -81,11 +87,3 @@ were already taken for symbols.
 So we have to make do with **G**
 (which looks almost like **C** for CapsLock)
 and **R** (which is contained in the word for ScrollLock).
-
-# Complete 100110B
-
-This is what the 100110B looks like in its full glory!
-
-The [complete 100110B layers definition](100110B-complete.json):
-
-![complete 100110B layers](100110B-complete.png)
