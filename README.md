@@ -31,7 +31,7 @@ and numbers arranged in a numpad style.
 
 (There are still three unused keys.)
 
-# Lower
+### Lower
 
 The Lower layer introduces the nav cluster:
 PgUp, PgDn, Home, End, Insert, Delete keys
