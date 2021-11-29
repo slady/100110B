@@ -1,6 +1,6 @@
 # 100110B the ortholinear mechanical keyboard
 
-100110B is my custom design of the 40% ortholinear mechanical keyboard.
+100110B also called **TT38** is my custom design of the 40% ortholinear [mechanical keyboard](https://github.com/slady/keyboards).
 
 This is what the 100110B looks like in its full glory!
 
